@@ -1,4 +1,4 @@
-# store/serializers/category.py — reemplazar CategorySerializer
+# store/serializers/category.py
 from rest_framework import serializers
 from django.utils.text import slugify
 from store.models import Category
