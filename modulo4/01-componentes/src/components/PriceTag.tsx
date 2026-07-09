@@ -1,5 +1,3 @@
-// src/components/PriceTag.tsx
-
 type Currency = 'USD' | 'EUR' | 'COP' | 'MXN'
 
 interface PriceTagProps {

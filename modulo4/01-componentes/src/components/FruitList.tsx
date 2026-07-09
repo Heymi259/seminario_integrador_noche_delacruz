@@ -1,5 +1,3 @@
-// src/components/FruitList.tsx
-
 interface Fruit {
   name: string
   emoji: string

@@ -1,5 +1,3 @@
-// src/components/ConditionalGreeting.tsx
-
 type TimeOfDay = 'morning' | 'afternoon' | 'evening'
 
 interface ConditionalGreetingProps {

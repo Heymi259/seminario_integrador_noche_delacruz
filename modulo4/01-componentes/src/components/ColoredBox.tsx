@@ -1,5 +1,3 @@
-// src/components/ColoredBox.tsx
-
 interface ColoredBoxProps {
   color: string
   width?: number

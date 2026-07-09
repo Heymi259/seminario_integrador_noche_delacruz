@@ -1,5 +1,3 @@
-// src/components/MiniProfileCard.tsx
-
 import StatusBadge from './StatusBadge'
 
 type BadgeStatus = 'active' | 'inactive' | 'pending' | 'error'
