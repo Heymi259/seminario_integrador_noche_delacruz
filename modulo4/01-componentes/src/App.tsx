@@ -1,12 +1,12 @@
 // src/App.tsx
 
 import { useState } from 'react'
-import DigitalCounter      from './components/DigitalCounter'
+import DigitalCounter      from './components/usestate/DigitalCounter'
 import SafeCounter         from './components/SafeCounter'
 import UserProfileForm     from './components/UserProfileForm'
 import TaskManager         from './components/TaskManager'
-import CatalogProductItem  from './components/CatalogProductItem'
-import ShoppingCartSummary from './components/ShoppingCartSummary'
+import CatalogProductItem  from './components/usestate/CatalogProductItem'
+import ShoppingCartSummary from './components/usestate/ShoppingCartSummary'
 
 // ┌──────────────────────────────────────────────────────────────────────┐
 // │  Cambia PASO y guarda (Ctrl+S) para navegar entre componentes.      │
